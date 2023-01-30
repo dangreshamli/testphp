@@ -1,1 +1,3 @@
-hello tan tan 
+function myfunction{
+    document.write("my website");
+}
